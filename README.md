@@ -5,29 +5,24 @@ Soy un desarrollador web con experiencia en el desarrollo de aplicaciones tanto 
 ## 🔧 Tecnologías y herramientas que uso:
 
 ### Front-End:
-- ![Tailwind CSS](icons/tailwind.png) Tailwind CSS
-- ![CSS](icons/css.png) CSS
-- ![Figma](icons/figma.png) Figma
-- ![Livewire](icons/livewire.png) Livewire
-- ![HTML](icons/html.png) HTML
+- Tailwind CSS
+- CSS
+- Figma
+- Livewire
+- HTML
 
 ### Back-End:
-- ![Laravel](icons/laravel.png) Laravel
-- ![MySQL](icons/mysql.png) MySQL
-- ![PHP](icons/php.png) PHP
-- ![PostgreSQL](icons/postgresql.png) PostgreSQL
+- Laravel
+- MySQL
+- PHP
+- PostgreSQL
 
 ### Herramientas:
-- ![Git](icons/git.png) Git
+- Git
 
 ### Actualmente aprendiendo:
-- ![React](icons/react.png) React
+- React
 
-## 🚀 Proyectos destacados:
-
-- **[Sistema de Gestión de Solicitudes de Gastos](#)**: Una aplicación web para gestionar y organizar las solicitudes de gastos, integrando roles de administrador y empleado. Utilizando **Laravel**, **Livewire** y **MySQL**.
-- **[Generador de Planes de Clase con IA](#)**: Plataforma web que permite a los maestros crear planes de clase personalizados con ayuda de una API de inteligencia artificial. Utiliza **Next.js**, **Tailwind CSS** y **Gemini AI**.
-  
 ## 🌟 Sobre mí:
 
 Soy un desarrollador apasionado por el código limpio y las soluciones innovadoras. Me gusta crear experiencias de usuario únicas, y me esfuerzo por mejorar tanto en diseño como en desarrollo. Constantemente busco aprender nuevas herramientas que me permitan crear productos impactantes.
