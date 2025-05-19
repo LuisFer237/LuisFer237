@@ -1,36 +1,27 @@
-# 👨‍💻 ¡Hola! Soy un desarrollador apasionado por la tecnología 👋
+# Bienvenido a mi perfil 😊
 
-Soy un desarrollador web con experiencia en el desarrollo de aplicaciones tanto **frontend** como **backend**. Me encanta aprender y mantenerme al día con nuevas tecnologías y enfoques en la programación. Me especializo en crear interfaces atractivas y funcionales, y disfruto enfrentar nuevos desafíos que me permitan seguir evolucionando.
+Soy un **desarrollador Full-Stack** con experiencia en la creación de plataformas web orientadas a la **optimización de procesos administrativos**. Me especializo en la automatización de tareas, gestión de datos y desarrollo de sistemas con enfoque funcional y escalable.
 
 ## 🔧 Tecnologías y herramientas que uso:
 
 ### Front-End:
-- Tailwind CSS
-- CSS
-- Figma
-- Livewire
-- HTML
+- Livewire  
+- Tailwind CSS  
+- HTML / CSS  
+- Figma (para prototipos)
 
 ### Back-End:
-- Laravel
-- MySQL
-- PHP
-- PostgreSQL
+- Laravel  
+- PHP  
+- MySQL / PostgreSQL  
 
 ### Herramientas:
-- Git
+- Git  
+- Visual Studio Code  
 
 ### Actualmente aprendiendo:
-- React
+- React  
 
 ## 🌟 Sobre mí:
 
-Soy un desarrollador apasionado por el código limpio y las soluciones innovadoras. Me gusta crear experiencias de usuario únicas, y me esfuerzo por mejorar tanto en diseño como en desarrollo. Constantemente busco aprender nuevas herramientas que me permitan crear productos impactantes.
-
-## 📫 ¿Quieres ponerte en contacto?
-
-Si tienes alguna pregunta o deseas colaborar en un proyecto, no dudes en [contactarme](#). ¡Estoy disponible para discutir nuevas oportunidades!
-
----
-
-⭐ ¡No olvides revisar mis proyectos y seguirme para más actualizaciones!
+Apasionado por el desarrollo de sistemas que **resuelvan problemas reales**, con foco en la eficiencia, trazabilidad de datos y automatización. Me interesa la construcción de herramientas administrativas, pensadas para escalar y mantenerse. Disfruto enfrentar nuevos desafíos técnicos y aprender continuamente para ofrecer soluciones cada vez más completas.
