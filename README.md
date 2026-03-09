@@ -1,4 +1,4 @@
-# Bienvenido a mi perfil 😊
+# Bienvenido a mi perfil
 
 Soy un **desarrollador Full-Stack** con experiencia en la creación de plataformas web orientadas a la **optimización de procesos administrativos**. Me especializo en la automatización de tareas, gestión de datos y desarrollo de sistemas con enfoque funcional y escalable.
 
